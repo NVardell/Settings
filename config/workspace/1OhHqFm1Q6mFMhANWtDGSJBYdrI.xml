@@ -146,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,6 +202,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="TestHistory">
@@ -238,7 +238,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107654000" />
+    <option name="totallyTimeSpent" value="108491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="-8" width="976" height="1066" extended-state="0" />
