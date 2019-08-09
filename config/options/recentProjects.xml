@@ -5,12 +5,6 @@
         <option value="I:/Spaces/IntelliJ/Pieces" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="I:/Spaces/IntelliJ/Pieces" />
-      </list>
-    </option>
-    <option name="lastPath" value="I:/Spaces/IntelliJ/Pieces" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -20,8 +14,8 @@
               <option name="build" value="IU-192.5728.98" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1565223911193" />
-              <option name="buildTimestamp" value="1563854883726" />
+              <option name="projectOpenTimestamp" value="1565382674641" />
+              <option name="buildTimestamp" value="1563854887525" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
