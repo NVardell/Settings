@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="google-app-engine-facet" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\codeStyles\codeStyleConfig.xml" timestamp="1560996813491" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\compiler.xml" timestamp="1565382763800" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\dictionaries\NV.xml" timestamp="1560979788011" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\encodings.xml" timestamp="1553719249845" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\inspectionProfiles\Project_Default.xml" timestamp="1560456634997" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1560456635098" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\misc.xml" timestamp="1564423770731" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\uiDesigner.xml" timestamp="1553729587355" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\vcs.xml" timestamp="1553717109809" />
+    <file path="I:\Spaces\IntelliJ\Pieces\.idea\workspace.xml" timestamp="1565383246412" />
+  </project-files>
+</conversion>
+
