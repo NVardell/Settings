@@ -1,7 +1,0 @@
-Lombook Plugin
-com.intellij.ideolog
-mobi.hsz.idea.gitignore
-com.chrisrm.idea.MaterialThemeUI
-org.sonarlint.idea
-FindBugs-IDEA
-com.euphoricity.gitignore
