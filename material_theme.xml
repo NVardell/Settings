@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="24" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="1de9b6" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="74522936:16c7a644d82:-8000" />
+    <option name="version" value="4.3.2" />
+  </component>
+</application>
