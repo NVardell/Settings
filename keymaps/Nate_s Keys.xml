@@ -74,9 +74,17 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="EditorMatchBrace" />
   <action id="EditorScrollToCenter" />
@@ -92,6 +100,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="ExternalJavaDoc" />
   <action id="ExternalSystem.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -109,6 +118,7 @@
   </action>
   <action id="GotoNextError" />
   <action id="GotoNextIncompletePropertyAction" />
+  <action id="GotoPreviousError" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <keyboard-shortcut first-keystroke="alt t" />
