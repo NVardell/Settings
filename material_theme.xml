@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentScrollbars" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
