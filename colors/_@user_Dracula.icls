@@ -4,7 +4,7 @@
     <property name="created">2019-05-21T15:55:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-08-18T16:17:07</property>
+    <property name="modified">2019-08-19T18:49:00</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -23,8 +23,8 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
-    <option name="CARET_COLOR" value="cccccc" />
-    <option name="CARET_ROW_COLOR" value="44475a" />
+    <option name="CARET_COLOR" value="15accc" />
+    <option name="CARET_ROW_COLOR" value="313441" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282a36" />
     <option name="DELETED_LINES_COLOR" value="ff79c6" />
     <option name="FILESTATUS_ADDED" value="8f9d6a" />
@@ -79,10 +79,10 @@
     <option name="ScrollBar.Transparent.thumbColor" value="" />
     <option name="ScrollBar.Transparent.trackColor" value="282a36" />
     <option name="ScrollBar.hoverThumbBorderColor" value="ff79c5" />
-    <option name="ScrollBar.hoverThumbColor" value="ff79c5" />
+    <option name="ScrollBar.hoverThumbColor" value="" />
     <option name="ScrollBar.hoverTrackColor" value="282a36" />
     <option name="ScrollBar.thumbBorderColor" value="ff79c5c0" />
-    <option name="ScrollBar.thumbColor" value="ff79c5c0" />
+    <option name="ScrollBar.thumbColor" value="" />
     <option name="ScrollBar.trackColor" value="282a36" />
     <option name="TEARLINE_COLOR" value="424450" />
     <option name="TOOLTIP" value="282a36" />
@@ -398,6 +398,12 @@
       <value>
         <option name="FOREGROUND" value="6272a4" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="BACKGROUND" value="282a36" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -1821,6 +1827,7 @@
         <option name="BACKGROUND" value="666b87" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="cccccc" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="MT_DIRECTORIES">
