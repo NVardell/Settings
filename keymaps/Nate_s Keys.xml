@@ -22,6 +22,9 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -135,7 +138,6 @@
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
-  <action id="Kotlin.RunScratch" />
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
